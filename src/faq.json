@@ -1,0 +1,22 @@
+[
+   {
+      "id":1,
+      "Question":"What can I do here?",
+      "Answer":"This is the E-commerce Support for different FAQ related to this website"
+   },
+   {
+      "id":2,
+      "Question":"How can I open an account?",
+      "Answer":"You can create an account by clicking on the sign-up button the entering the necessary data."
+   },
+   {
+      "id":3,
+      "Question":"How can I order items?",
+      "Answer":"Just select the items yo want to order and click on the add button right below the item and then select proced to order"
+   },
+   {
+      "id":4,
+      "Question":"How can I make a payment?",
+      "Answer":"Just select the method of payment :\n if the method selected is offline then it is cash on delivery and if it is selected online then select the app you want to paythroug then make the necessary payment"
+   }
+]
