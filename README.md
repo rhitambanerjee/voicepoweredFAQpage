@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## About The Project
+
+This is a voice assisted faq page which helps you to resolve different queries related to e-commerce shopping
+
 ## Available Scripts
 
 In the project directory, you can run:
