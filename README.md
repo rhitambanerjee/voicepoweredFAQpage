@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This is a voice assisted faq page which helps you to resolve different queries related to e-commerce shopping
 
 ## Link
-https://voicepowered-faq-page.vercel.app
+https://vercel.com/rhitambanerjee/voicepowered-faq-page
 
 ## Available Scripts
 
@@ -75,5 +75,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 
-##Screenshot
+## Screenshot
 ![Screenshot (14)](https://user-images.githubusercontent.com/77232351/171229657-f4c624f2-d794-4e31-bdd4-fb864ec0361f.png)
