@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This is a voice assisted faq page which helps you to resolve different queries related to e-commerce shopping
 
 ## Link
-https://vercel.com/rhitambanerjee/voicepowered-faq-page
+voicepowered-faq-page.vercel.app
 
 ## Available Scripts
 
